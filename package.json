@@ -1,0 +1,12 @@
+{
+  "name": "html-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss-cli@latest build ./style.css -o ./build.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
